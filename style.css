@@ -1,3 +1,43 @@
-.active-nav{
+.active-nav {
+    color: #10C9C3 !important;
+}
+.center{
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+.active {
+    color: #10C9C3 !important;
+}
+#landingpage {
+    background-image: url("images/aidan-hancock-8RU4OuA6Yug-unsplash.png");
 
+        top: 0px;
+        right: 0px;
+        bottom: 237px;
+        left: 0px;
+        background-size: cover;
+}
+.btn-primary {
+    background-color: #10C9C3 !important;
+    border:#10C9C3 !important;
+    border-radius: 0 !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+}
+.headingspace {
+    padding-top: 163px;
+}
+.introtext {
+    margin-right: 269px;
+}
+h1 {
+    font-family: 'Nunito Sans', sans-serif !important;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.cyan{
+    background-color: #10C9C3;
 }
