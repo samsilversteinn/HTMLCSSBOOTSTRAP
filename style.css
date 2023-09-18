@@ -41,3 +41,9 @@ body {
 .cyan{
     background-color: #10C9C3;
 }
+.test{
+    background-color: #10C9C3;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
