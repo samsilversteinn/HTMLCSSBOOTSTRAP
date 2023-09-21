@@ -31,19 +31,117 @@
 }
 .introtext {
     margin-right: 269px;
-}
-h1 {
-    font-family: 'Nunito Sans', sans-serif !important;
-}
-body {
-    font-family: 'Montserrat', sans-serif;
-}
-.cyan{
-    background-color: #10C9C3;
-}
-.test{
-    background-color: #10C9C3;
-    color: white;
-    text-align: center;
-    font-size: 25px;
-}
+    .active {
+        color: #10C9C3 !important;
+    }
+    #landingpage {
+        background-image: url("images/aidan-hancock-8RU4OuA6Yug-unsplash.png");
+            top: 0px;
+            right: 0px;
+            bottom: 237px;
+          padding-bottom: 400px;
+            left: 0px;
+            background-size: cover;
+    }
+    .btn-primary {
+        background-color: #10C9C3 !important;
+        border:#10C9C3 !important;
+        border-radius: 0 !important;
+        font-size: 12px !important;
+        font-weight: bold !important;
+    }
+    .headingspace {
+        padding-top: 302px;
+    }
+    .introtext {
+        margin-right: 269px;
+    }
+    h1, h2 {
+        font-family: 'Nunito Sans', sans-serif !important;
+    }
+    body {
+        font-family: 'Montserrat', sans-serif;
+    }
+    .progress {
+        border-radius: 0 !important;
+        height: 5px !important;
+    }
+    .progress-bar {
+        background-color: #10C9C3 !important;
+    }
+    #statspage {
+        background-color: #10C9C3;
+        color: white;
+        font-weight: bold;
+        font-size: 10px;
+    }
+    h4 {
+        font-size: 12px !important;
+    }
+    
+    .image1 {
+        background-image: url("images/Package Design Lemon Tea - fabian krotzer Frame.png");
+    }
+    .image2 {
+        background-image: url("images/Package Design Vanilla Powder - fabian krotzer Frame.png");
+    }
+    .image3 {
+        background-image: url("images/Package Design Coconut - fabian krotzer Frame.png");
+    }
+    .image4 {
+        background-image: url("images/Package Design Komaso - fabian krotzer Frame.png");
+    }
+    .image5 {
+        background-image: url("images/Package Design Spices - fabian krotzer Frame.png");
+    }
+    .image6 {
+        background-image: url("images/Package Design Salad - fabian krotzer Frame.png");
+    }
+    .image7 {
+        background-image: url("images/Package Design Olive Oil - fabian krotzer Frame.png");
+    }
+    .image8 {
+        background-image: url("images/Package Design Seaweed - fabian krotzer Frame.png");
+    }
+    
+    .galleryimage {
+        height: 450px !important;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .hoverImg {
+        position: absolute;
+        left: 200;
+        top: 200;
+        display: none;
+    }
+    
+    .galleryimage:hover .hoverImg {
+        display: block;
+    }
+    
+    .spacebar {
+        padding-top:100px;
+        background-color: #F5F5F5;
+    }
+    .quoteauthor {
+        font-size: 12px;
+    }
+    .quote {
+        font-size: 20px;
+    }
+    #quotepage {
+        background-color: #10C9C3;
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+    #logospage {
+        background-color: #FFFFFF;
+    }
+    #formpage {
+        background-color: #F5F5F5;
+    }
+    input {
+        border-radius: 0px !important;
+    }
